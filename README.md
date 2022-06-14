@@ -2,7 +2,7 @@
 
 
 
-- 객체, Class
+- 객체(Object), Class
   - ClassTest.Java
   - TestClassMain.Java
 - 달력을 통한 OOP 연습
@@ -11,9 +11,47 @@
 - Static
   - StaticTest.java
   - StaticTestMain.java
-- 접근제한자
+- 접근제한자(Modifier)
   - public > protected > default > private
   - ModifierTest.Java
   - Package : pac
     - ModifierTest.java
     - Test.java
+    - information.java with Student.java in package : inheritance
+- Overloading
+  - Overloading.java
+- Inheritance, overriding
+  - Package : inheritance
+    - Car.java
+    - Sedan.java
+  - To study 'private', package : inheritance
+    - AAA.java
+    - BBB.java
+    - CCC.java
+- TypeCasting
+  - Package : inheritance
+    - TypeCasting.java
+  - 참조 : 
+    - [상속에서의-타입변환과-다형성](https://luvyoon.tistory.com/entry/JAVA-1-%EC%83%81%EC%86%8D%EC%97%90%EC%84%9C%EC%9D%98-%ED%83%80%EC%9E%85%EB%B3%80%ED%99%98%EA%B3%BC-%EB%8B%A4%ED%98%95%EC%84%B1)
+    - [클래스 상속과 다형성의 메모리 구조](https://osy0907.tistory.com/m/56)
+- Abstract Class
+  - AbstractTest.java
+  - AbstractMain.java
+- Interface
+  - InterfaceTest.java
+  - InterfaceBoard.java
+  - InterfaceMain.java
+  - InterfaceMember.java
+- InnerClass
+  - OuterClass.java
+  - MethodInnerClass.java
+  - AnonymousInner.java
+    - Student.java
+- 개인참조 : Java 메모리 구조, java의 특징
+  - [JVM 메모리 구조 정리](https://cantcoding.tistory.com/40)
+  - [JVM 구조와 자바 런타임 메모리 구조](https://www.notion.so/Markdown-6d4eb5324e6b4dc7942f739709e72840)
+  - [Java의 메모리 구조_기본 구조](https://codevang.tistory.com/83?category=827598)
+  - [메모리 할당](https://nowonbun.tistory.com/303)
+  - [java의 특징](https://osy0907.tistory.com/m/100)
+- 연습문제
+  - Package : practice
