@@ -17,7 +17,8 @@
   - Package : pac
     - ModifierTest.java
     - Test.java
-    - information.java with Student.java in package : inheritance
+    - information.java 
+      - Student.java in package : inheritance
 - Overloading
   - Overloading.java
 - Inheritance, overriding
