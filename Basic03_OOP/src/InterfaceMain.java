@@ -36,6 +36,8 @@ public class InterfaceMain implements InterfaceTest, InterfaceBoard{
 	}
 	public static void main(String[] args) {
 		
+		InterfaceBoard test = (InterfaceBoard)new InterfaceMain();
+		test.edit();
 		InterfaceMain im = new InterfaceMain();
 		im.write();
 		System.out.println(im.getName());

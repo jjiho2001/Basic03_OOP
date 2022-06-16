@@ -7,7 +7,7 @@ public class Sedan extends Car {
 	public Sedan() {
 		// 하위클래스의 생성자 메소드에서 상위클래스의 생성자메소드 호출
 		// 반두시 첫번째 실행문으로 기출되야 한다.
-		super("lightblue","소렌토");
+		//super("lightblue","소렌토");
 	}
 	
 	public Sedan(String color) {

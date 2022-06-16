@@ -14,6 +14,7 @@ public class TypeCasting {
 		
 		//하위클래스의 오버라이딩은 상위클래스로 형변환되어도 하위클래스의 메소드기능이 구현된다.
 		cc.speedUp();
+		System.out.println(cc.color);
 		System.out.println(cc.speed);
 		
 		//cc.speedUp(20); error, 기능이 숨어있음
